@@ -1,7 +1,7 @@
-#Njan aan Map🗺🗺
+# Njan aan Map🗺🗺
 
 
-###Team Name: STONKS
+### Team Name: STONKS
 
 
 ### Team Members
@@ -24,7 +24,7 @@ For Software:
 - Python,HTML
 - Flask
 - pandas,numpy,googlemaps,python-dotenv,Flask-Cors,os,traceback
-- Google Maps API,Vercel
+- Google Maps API
 
 
 ### Implementation
